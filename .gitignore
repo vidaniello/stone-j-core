@@ -26,3 +26,7 @@ $RECYCLE.BIN/
 *.bak
 *.log
 **/libraries
+/target/
+/.classpath
+/.project
+/.settings/
